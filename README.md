@@ -15,7 +15,6 @@ FitBit Fitness Tracker Data, sourced from Kaggle and released under CC0: Public 
 ```
 wefit-fitbit-analysis/
 ├── README.md
-├── LICENSE
 ├── analysis/
 │   ├── Task_1_LeanFit_Analysis.xlsx
 │   ├── Task_2_FitWear_Analysis.xlsx
