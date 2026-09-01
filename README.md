@@ -39,7 +39,7 @@ Heart rate: customers whose heart rate exceeded 185 bpm during recorded activity
 
 Output: two separate customer ID lists, one per criterion, in `Final Solution`.
 
-![Potential LeanFit customers by BMI and heart rate](screenshots/task1_leanfit_charts.png)
+![Potential LeanFit customers by BMI and heart rate](Screenshots/task1_leanfit_charts.png)
 
 ### Task 2 — FitWear: who's likely to buy fitness gear
 
@@ -51,7 +51,7 @@ Customers were segmented into three tiers using days of tracker use and activity
 
 Output: customer list with category labels, plus a column chart showing the distribution.
 
-![FitWear customer segmentation by activity level](screenshots/task2_fitwear_charts.png)
+![FitWear customer segmentation by activity level](Screenshots/task2_fitwear_charts.png)
 
 ### Task 3 — Sleepy-Nights: who's likely to subscribe
 
@@ -63,7 +63,7 @@ Customers were segmented by average nightly sleep hours, using the commonly cite
 
 Sleep Deprived and Potential Oversleepers are both flagged as target customers, since both groups have irregular sleep patterns the app is designed to fix.
 
-![Sleepy-Nights potential customers by sleep category](screenshots/task3_sleepynights_charts.png)
+![Sleepy-Nights potential customers by sleep category](Screenshots/task3_sleepynights_charts.png)
 
 ### Task 4 — Dashboard: overall usage trends
 
@@ -74,7 +74,7 @@ Daily activity data was cleaned and aggregated two ways:
 
 Pivot tables were built from both aggregations and combined into a single dashboard sheet for a non-technical management audience.
 
-![WeFit management dashboard](screenshots/task4_dashboard.png)
+![WeFit management dashboard](Screenshots/task4_dashboard.png)
 
 ## Tools used
 
