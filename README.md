@@ -8,7 +8,7 @@ WeFit is a fitness company with three subsidiaries: LeanFit (personalized diet p
 
 ## Data source
 
-FitBit Fitness Tracker Data, sourced from Kaggle and released under CC0: Public Domain. Data was collected from 30 consenting Fitbit users via Amazon Mechanical Turk between 12 March and 12 May 2016, covering minute-level physical activity, heart rate, and sleep monitoring.
+[FitBit Fitness Tracker Data](https://zenodo.org/records/53894#.Y7PTU3ZBy3C), sourced from Kaggle and released under CC0: Public Domain. Data was collected from 30 consenting Fitbit users via Amazon Mechanical Turk between 12 March and 12 May 2016, covering minute-level physical activity, heart rate, and sleep monitoring.
 
 ## Methodology
 
