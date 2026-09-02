@@ -1,4 +1,4 @@
-# WeFit Fitbit Fitness Tracker Analysis
+# WeFit FitBit Fitness Tracker Analysis
 
 Excel-based analysis of Fitbit fitness tracker data to identify potential customers for three WeFit subsidiaries (LeanFit, FitWear, Sleepy-Nights) and build a management dashboard from daily activity data.
 
@@ -9,23 +9,6 @@ WeFit is a fitness company with three subsidiaries: LeanFit (personalized diet p
 ## Data source
 
 FitBit Fitness Tracker Data, sourced from Kaggle and released under CC0: Public Domain. Data was collected from 30 consenting Fitbit users via Amazon Mechanical Turk between 12 March and 12 May 2016, covering minute-level physical activity, heart rate, and sleep monitoring.
-
-## Repository structure
-
-```
-wefit-fitbit-analysis/
-├── README.md
-├── analysis/
-│   ├── Task_1_LeanFit_Analysis.xlsx
-│   ├── Task_2_FitWear_Analysis.xlsx
-│   ├── Task_3_SleepyNights_Analysis.xlsx
-│   └── Task_4_Final_Analysis_Dashboard.xlsx
-└── screenshots/
-    ├── task1_leanfit_charts.png
-    ├── task2_fitwear_charts.png
-    ├── task3_sleepynights_charts.png
-    └── task4_dashboard.png
-```
 
 ## Methodology
 
